@@ -1,6 +1,6 @@
 # Customer Segmentation using RFM Analysis
 
-Internship project — **Syntecxhub Internship Program (Data Analysis Track)**
+*Syntecxhub Data Analysis Internship — Task 3*
 
 An RFM (Recency, Frequency, Monetary) analysis and customer segmentation model built on the AdventureWorks sales dataset, delivered as a working Excel dashboard plus Power BI/Tableau-ready data files.
 
